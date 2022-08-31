@@ -1,0 +1,46 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'C:/Users/RAHEE/Documents/NetBeansProjects/Employee/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/RAHEE/Documents/NetBeansProjects/Employee/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Employee 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Employee 1.0-SNAPSHOT API'
+com.mycompany.employee
+'C:/Users/RAHEE/Documents/NetBeansProjects/Employee/src/main/java/com/mycompany/employee/Employee.java'
+'C:/Users/RAHEE/Documents/NetBeansProjects/Employee/src/main/java/com/mycompany/employee/EmployeeDetails.java'
+C:\Users\RAHEE\Documents\NetBeansProjects\Employee\src\main\java = 1661522857857
+C:\Users\RAHEE\Documents\NetBeansProjects\Employee\target\site\apidocs\allclasses-index.html = 1661977780251
+C:\Users\RAHEE\Documents\NetBeansProjects\Employee\target\site\apidocs\allpackages-index.html = 1661977780267
+C:\Users\RAHEE\Documents\NetBeansProjects\Employee\target\site\apidocs\copy.svg = 1661977780361
+C:\Users\RAHEE\Documents\NetBeansProjects\Employee\target\site\apidocs\element-list = 1661977780126
+C:\Users\RAHEE\Documents\NetBeansProjects\Employee\target\site\apidocs\help-doc.html = 1661977780345
+C:\Users\RAHEE\Documents\NetBeansProjects\Employee\target\site\apidocs\index-all.html = 1661977780314
+C:\Users\RAHEE\Documents\NetBeansProjects\Employee\target\site\apidocs\index.html = 1661977780330
+C:\Users\RAHEE\Documents\NetBeansProjects\Employee\target\site\apidocs\jquery-ui.overrides.css = 1661977780518
+C:\Users\RAHEE\Documents\NetBeansProjects\Employee\target\site\apidocs\member-search-index.js = 1661977780283
+C:\Users\RAHEE\Documents\NetBeansProjects\Employee\target\site\apidocs\module-search-index.js = 1661977780267
+C:\Users\RAHEE\Documents\NetBeansProjects\Employee\target\site\apidocs\overview-tree.html = 1661977780220
+C:\Users\RAHEE\Documents\NetBeansProjects\Employee\target\site\apidocs\package-search-index.js = 1661977780267
+C:\Users\RAHEE\Documents\NetBeansProjects\Employee\target\site\apidocs\script.js = 1661977780361
+C:\Users\RAHEE\Documents\NetBeansProjects\Employee\target\site\apidocs\search.js = 1661977780380
+C:\Users\RAHEE\Documents\NetBeansProjects\Employee\target\site\apidocs\stylesheet.css = 1661977780361
+C:\Users\RAHEE\Documents\NetBeansProjects\Employee\target\site\apidocs\tag-search-index.js = 1661977780283
+C:\Users\RAHEE\Documents\NetBeansProjects\Employee\target\site\apidocs\type-search-index.js = 1661977780280
